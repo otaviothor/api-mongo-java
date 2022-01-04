@@ -1,4 +1,4 @@
-<p align="center"><a href="https://spring.io/" target="_blank"><img src="./.github/logo.svg" width="400"></a></p>
+<p align="center"><img src="./.github/logo.svg" width="400"></p>
 
 ## ✨ Tecnologias
 
@@ -18,7 +18,7 @@ O projeto é uma implementação de uma API feita com Spring Boot, MongoDB, Lomb
 - Instale as dependências com `mvn clean install`
 - Inicie o servidor com `mvn spring-boot:run`
 
-Agora você pode acessar [`localhost:8080`](http://localhost:8080) no seu navegador.
+Agora você pode acessar [`localhost:8080`](http://localhost:8080) no seu navegador
 
 ## 📄 Licença
 
