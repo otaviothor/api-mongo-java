@@ -22,7 +22,7 @@ Agora você pode acessar [`localhost:8080`](http://localhost:8080) no seu navega
 
 ## 📄 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes
 
 ---
 
